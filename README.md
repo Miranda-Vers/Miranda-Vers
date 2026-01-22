@@ -1,4 +1,4 @@
-## Opa oi meu nome é Arthurm e estou iniciando meus estudo em programação
+## Opa oi meu nome é Arthur e estou iniciando meus estudo em programação
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
