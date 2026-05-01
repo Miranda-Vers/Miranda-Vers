@@ -1,4 +1,4 @@
-## Olá meu nome é Arthur, e estou iniciando meus estudo em programação.
+## Olá meu nome é Arthur, e estou estudando programação.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Miranda-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -32,3 +32,12 @@
   />
 
 </p>
+
+
+## 🎓 Certificações
+
+| Certificado | Instituição | Verificação |
+| :--- | :--- | :---: |
+| **Generative AI Foundations** | AWS Academy Graduate | [Visualizar]([link-do-seu-certificado](https://www.credly.com/badges/2f9a7596-d05b-4fdc-84b2-db19e0938243/public_url)) |
+| **Fullstack Web Development** | Trybe | [Visualizar](link-do-seu-certificado) |
+| **JavaScript Advanced** | Alura | [Visualizar](link-do-seu-certificado) |
