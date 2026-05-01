@@ -34,10 +34,4 @@
 </p>
 
 
-## 🎓 Certificações
 
-| Certificado | Instituição | Verificação |
-| :--- | :--- | :---: |
-| **Generative AI Foundations** | AWS Academy Graduate | [Visualizar]([link-do-seu-certificado](https://www.credly.com/badges/2f9a7596-d05b-4fdc-84b2-db19e0938243/public_url)) |
-| **Fullstack Web Development** | Trybe | [Visualizar](link-do-seu-certificado) |
-| **JavaScript Advanced** | Alura | [Visualizar](link-do-seu-certificado) |
