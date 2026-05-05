@@ -19,7 +19,7 @@
   <tr>
     <td align="center" width="20%">
       <a href="https://www.credly.com/badges/2f9a7596-d05b-4fdc-84b2-db19e0938243/public_url" target="_blank">
-        <img width="160" src=""/>
+        <img width="160" src="https://images.credly.com/size/110x110/images/7fa09e71-4149-4d59-9066-14fc8a3e0f39/blob"/>
       </a>
       <br><br>
       <strong>AWS</strong><br>
