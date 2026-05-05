@@ -15,5 +15,14 @@
   </div>
 <br>
 
+<table align="center">
+  <tr>
+    <td align="center" width="20%">
+      <a href="https://www.credly.com/badges/2f9a7596-d05b-4fdc-84b2-db19e0938243/public_url" target="_blank">
+        <img width="160" src=""/>
+      </a>
+      <br><br>
+      <strong>AWS</strong><br>
+      <sub>AWS Cloud Foundations Trained</sub>
 
 
