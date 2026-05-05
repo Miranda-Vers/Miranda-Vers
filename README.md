@@ -38,8 +38,11 @@
       </a>
       <br><br>
       <strong>AWS</strong><br>
-      <sub>AWS Cloud Foundations Trained</sub>
-<br>
+      <sub>AWS IA Foundations Trained</sub>
+    </td>
+  </tr>
+</table>
+<br><br>
 
 <br>
 #
