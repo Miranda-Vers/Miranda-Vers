@@ -33,16 +33,23 @@
 <br>
 
 ## 🎓 Certificações e Conquistas
-
 <table align="center">
   <tr>
-    <td align="center" width="20%">
+    <td align="center" width="15%">
       <a href="https://www.credly.com/badges/2f9a7596-d05b-4fdc-84b2-db19e0938243/public_url" target="_blank">
-        <img width="160" src="https://images.credly.com/size/110x110/images/7fa09e71-4149-4d59-9066-14fc8a3e0f39/blob"/>
+        <img width="100" src="https://images.credly.com/size/110x110/images/7fa09e71-4149-4d59-9066-14fc8a3e0f39/blob"/>
       </a>
-      <br><br>
+      <br>
       <strong>AWS</strong><br>
       <sub>AWS IA Foundations Trained</sub>
+    </td>
+    <td align="center" width="15%">
+      <a href="https://github.com/Miranda-Vers/Miranda-Vers/blob/main/PYTHON%20E%20A%20MATEM%C3%81TICA%20DE%20DADOS%20FINANCEIRO_pages-to-jpg-0001.jpg" target="_blank">
+        <img width="100" height="100" src="https://raw.githubusercontent.com/Miranda-Vers/Miranda-Vers/main/PYTHON%20E%20A%20MATEM%C3%81TICA%20DE%20DADOS%20FINANCEIRO_pages-to-jpg-0001.jpg"/>
+      </a>
+      <br>
+      <strong>UFRGS</strong><br>
+      <sub>Python e Matemática de Dados</sub>
     </td>
   </tr>
 </table>
