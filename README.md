@@ -260,7 +260,7 @@ de transformar dados brutos em insights valiosos."
 
 ### 🐧 Keep Coding, Stay Awesome!
 
-**Desenvolvido com ❤️ em Linux | Python | AWS**
+**Desenvolvido em Python | AWS**
 
 ⭐ Se você gostou, deixe uma estrela nos meus projetos!
 
