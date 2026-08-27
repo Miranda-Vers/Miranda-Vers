@@ -1,6 +1,4 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=1F74F7&width=435&lines=Welcome+to+my+profile!" alt="Typing SVG" /></a><br>
-
-
 ### 🐧 Desenvolvedor | Engenheiro de Dados | Cloud Enthusiast
 
 [![GitHub](https://img.shields.io/badge/GitHub-Miranda--Vers-181717?style=for-the-badge&logo=github)](https://github.com/Miranda-Vers)
