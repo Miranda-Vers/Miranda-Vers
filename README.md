@@ -4,8 +4,8 @@
 ### 🐧 Desenvolvedor | Engenheiro de Dados | Cloud Enthusiast
 
 [![GitHub](https://img.shields.io/badge/GitHub-Miranda--Vers-181717?style=for-the-badge&logo=github)](https://github.com/Miranda-Vers)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arthur%20Miranda-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/arthurmiranda)
-[![Email](https://img.shields.io/badge/Email-arthur%40example.com-EA4335?style=for-the-badge&logo=gmail)](mailto:arthur@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arthur%20Miranda-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arthursilvamiranda/)
+[![Email](https://img.shields.io/badge/Email-arthur%40example.com-EA4335?style=for-the-badge&logo=gmail)](mailto:mirandaarthur914@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Arthur%20Miranda-FF6B6B?style=for-the-badge&logo=firefox)](https://github.com/Miranda-Vers)
 
 **Apaixonado por Engenharia de Dados, Python e Cloud Computing** ☁️
